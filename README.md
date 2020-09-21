@@ -1,4 +1,4 @@
-# Simple-Pipeline-Google-Cloud
+# Simple-Pipeline-Google-Cloud-Composer (Airflow)
 
 Use cloud composer to create simple pipeline
 
